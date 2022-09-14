@@ -1,4 +1,4 @@
-# all_in_one
+# SpongeBob SquarePants
 
 A new Flutter project.
 
